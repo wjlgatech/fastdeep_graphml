@@ -1,4 +1,4 @@
-# fastdeep-graphml
+# fastdeep-graphML
 
 ## Objectives
 - to journal my learning on GraphML; fast iteration with coding, deep dive with math|theory.
