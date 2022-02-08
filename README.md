@@ -1,7 +1,7 @@
 # fastdeep-graphml
 
 ## Objectives
-- to journal my learning on GraphML 
+- to journal my learning on GraphML; fast iteration with coding, deep dive with math|theory.
 - to provide easy-to-digest, easy-to-apply tutorials 
 - to build GraphML based products such as recommender, classifier, knowledge base.
 
